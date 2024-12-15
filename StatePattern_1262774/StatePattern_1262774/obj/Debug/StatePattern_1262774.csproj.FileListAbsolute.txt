@@ -1,0 +1,11 @@
+C:\CPSC501\StatePattern_1262774\StatePattern_1262774\obj\Debug\StatePattern_1262774.csproj.AssemblyReference.cache
+C:\CPSC501\StatePattern_1262774\StatePattern_1262774\obj\Debug\StatePattern_1262774.csproj.SuggestedBindingRedirects.cache
+C:\CPSC501\StatePattern_1262774\StatePattern_1262774\obj\Debug\StatePattern_1262774.Form1.resources
+C:\CPSC501\StatePattern_1262774\StatePattern_1262774\obj\Debug\StatePattern_1262774.Properties.Resources.resources
+C:\CPSC501\StatePattern_1262774\StatePattern_1262774\obj\Debug\StatePattern_1262774.csproj.GenerateResource.cache
+C:\CPSC501\StatePattern_1262774\StatePattern_1262774\obj\Debug\StatePattern_1262774.csproj.CoreCompileInputs.cache
+C:\CPSC501\StatePattern_1262774\StatePattern_1262774\bin\Debug\StatePattern_1262774.exe.config
+C:\CPSC501\StatePattern_1262774\StatePattern_1262774\bin\Debug\StatePattern_1262774.exe
+C:\CPSC501\StatePattern_1262774\StatePattern_1262774\bin\Debug\StatePattern_1262774.pdb
+C:\CPSC501\StatePattern_1262774\StatePattern_1262774\obj\Debug\StatePattern_1262774.exe
+C:\CPSC501\StatePattern_1262774\StatePattern_1262774\obj\Debug\StatePattern_1262774.pdb
